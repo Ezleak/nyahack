@@ -6,8 +6,9 @@
 
 2. **还有就是你为啥几把说几句话就要带个日文**？
 
-![unknown](https://i.postimg.cc/W4ByGybq/image.png)
-![unknown](https://i.postimg.cc/q7yhRttV/D7-5-PWR-OZ2-1-37-M8-JA7.png)
+![unknown](https://i.postimg.cc/CxPHDrsC/EDMF-038-7-ZNRM-YASZ-C.png)
+
+![unknown](https://i.postimg.cc/zvVxHm9g/img.png)
 
 **你这是真走火入魔了啊哥们,咱们这如果脑子有病就赶紧去治一下吧,不是哥们我第一次看到这种你都给我吓坏了,我寻思哪个正常人能是这个样子的**
 
