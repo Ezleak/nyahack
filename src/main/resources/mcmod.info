@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "nya",
+    "name": "Nya Hack",
+    "description": "jiyun233 wa kawaii neko nya~",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/jiyun233/CubeBase/",
+    "updateUrl": "https://github.com/jiyun233/CubeBase/release/",
+    "logoFile": "/nya.jpg",
+    "authorList": [
+      "jiyun233"
+    ]
+  }
+]
